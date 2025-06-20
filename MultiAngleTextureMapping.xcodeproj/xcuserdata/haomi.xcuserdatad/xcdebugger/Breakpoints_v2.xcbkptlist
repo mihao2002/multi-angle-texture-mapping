@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F36CC598-F6C2-4AED-A303-69AD8773C0C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8F06F22-EE94-4F7C-B0F1-C53AB1249790"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultiAngleTextureMapping/Coordinator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "removeBoundingBoxWireframes(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8F06F22-EE94-4F7C-B0F1-C53AB1249790 - 4ddcd3db5f8d08fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiAngleTextureMapping.Coordinator.removeBoundingBoxWireframes(for: Swift.Array&lt;Foundation.UUID&gt;) -&gt; ()"
+                  moduleName = "MultiAngleTextureMapping.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haomi/Projects/multi-angle-texture-mapping/MultiAngleTextureMapping/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87">
+               </Location>
+               <Location
+                  uuid = "B8F06F22-EE94-4F7C-B0F1-C53AB1249790 - 4ddcd3db5f8d08fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiAngleTextureMapping.Coordinator.removeBoundingBoxWireframes(for: Swift.Array&lt;Foundation.UUID&gt;) -&gt; ()"
+                  moduleName = "MultiAngleTextureMapping.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haomi/Projects/multi-angle-texture-mapping/MultiAngleTextureMapping/Coordinator.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
